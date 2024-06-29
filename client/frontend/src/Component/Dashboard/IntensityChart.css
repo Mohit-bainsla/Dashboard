@@ -1,0 +1,11 @@
+/* Add this CSS to your project */
+.chart-container {
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+  }
+  .chart-wrapper {
+    display: inline-block;
+    min-width: 1000px; /* Adjust this value based on the number of data points */
+  }
+  
